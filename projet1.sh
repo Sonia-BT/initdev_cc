@@ -1,9 +1,8 @@
 #!/bin/bash
 
 rep="initdev"
-sousrep="main"
 
 mkdir $rep
-mkdir $rep/$sousrep
+mkdir $rep/main
 mkdir $rep/licence
 mkdir $rep/makefile
